@@ -1,0 +1,10 @@
+
+SECURE DEVELOPMENT CHECKLIST
+
+1. Never commit passwords, API keys, access tokens, or other sensitive credentials.
+
+2. Review all modified files before staging and committing changes.
+
+3. Validate and sanitize user input to prevent common vulnerabilities such as SQL injection and cross-site scripting (XSS).
+
+4. Keep dependencies and development tools updated to reduce exposure to known security vulnerabilities.
