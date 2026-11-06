@@ -1,0 +1,8 @@
+
+My name is Mouad Dehimi. I am currently studying cybersecurity at Code213 Academy. I have a growing technical background in Python programming, computer systems, and cybersecurity fundamentals.
+
+During the Code213 program, I aim to master three important skills:
+
+1. Git version control and professional commit discipline.
+2. Secure coding practices and vulnerability prevention.
+3. DevSecOps workflows and security automation.
