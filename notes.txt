@@ -1,0 +1,14 @@
+
+SESSION 01 - GIT FOUNDATIONS
+
+1. Git vs GitHub:
+Git is a distributed version control system used to track changes in files and collaborate on projects. GitHub is an online platform that hosts Git repositories and allows developers to collaborate.
+
+2. The Four Git Storage Areas:
+- Working Directory: Where files are created and modified.
+- Staging Area: Where selected changes are prepared for a commit.
+- Local Repository: Where committed changes are stored.
+- Remote Repository: An online copy of the project shared with others.
+
+3. Pre-Merge Gates:
+Pre-merge gates are automated checks performed before code is merged. They help detect bugs, security vulnerabilities, and coding problems before changes reach the main branch.
